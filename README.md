@@ -29,7 +29,7 @@ Choose your .sql file (containing students, courses, etc).
 Click Go 
 Step 5: Open Your Project
 In your browser, type: http://localhost/school_system
-You will see your beautiful fancy dashboard! 🎀
+You will see your beautiful fancy dashboard! 
 3.  Managing Students
 
 Click "Manage Students" on the Home Dashboard.
